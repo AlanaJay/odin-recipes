@@ -1,3 +1,15 @@
 div {
     text-align: center;
 }
+
+img {
+width: 300px;
+height:auto;
+}
+
+.button.li {
+Color: White;
+background-color: salmon;
+font-size: 24px;
+
+}
